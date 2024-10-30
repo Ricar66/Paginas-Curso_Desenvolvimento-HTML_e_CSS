@@ -1,0 +1,46 @@
+h2{
+    background-color: #7faeb7;
+}
+
+hr{
+    border:solid #7faeb7 3px;
+}
+
+p a {
+    color: #004552;
+    font-weight: bold;
+    font-size: 1.5em;
+    text-decoration: none;
+
+}
+
+p a:hover{
+    text-decoration: none;
+    color: #ffa700;
+    font-weight: bold;
+    
+  
+}
+
+p a img{
+    border: #fff solid 5px;
+}
+p a img:hover{
+  
+    border:#ffa700 solid 5px;
+}
+
+p a img[src="btn1.png"]:hover{
+
+    border-radius: 20px 0 0 20px;
+ 
+}
+
+
+p a img[src="btn3.png"]:hover{
+    text-decoration: none;
+    background-color: #ffa700;
+    border-radius: 0 20px 20px 0;
+  
+}
+
